@@ -1,0 +1,14 @@
+
+div .media-body p{
+    margin-bottom: 0;
+}
+.cont{
+    margin-bottom: 10rem !important;
+    
+}
+.container{
+    margin-top: 0 !important;
+}
+.media{
+    background-color: #222;
+}
